@@ -1,2 +1,0 @@
-# jardam
-jardam.site
